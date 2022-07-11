@@ -1,1 +1,26 @@
 /* styles go here */
+
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.personal__label:last-child {
+  margin-bottom: 0;
+}
+
+.registration__label:last-child {
+  margin-bottom: 0;
+}
+
+.facts__label:last-child {
+  margin-bottom: 0;
+}
+
+.info__label:last-child {
+  margin-bottom: 0;
+}
